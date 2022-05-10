@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Create a team profile by following the prompts",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --watchAll --verbose test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otterpop7/Team-Profile-Generator.git"
+  },
+  "author": "Jordan Otterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otterpop7/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Otterpop7/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
