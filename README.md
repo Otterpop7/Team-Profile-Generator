@@ -29,3 +29,5 @@ Use npm init to create a package.json, and then npm i in the package.json to dow
 ### Screenshot of app
 
 <img alt="app home page" src="./Assets/images/My-Team.png" width="500">
+
+[team generator video](https://drive.google.com/file/d/17T_4EYkwI347YEv1WWanXWirQW0ts8VH/view)
